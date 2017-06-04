@@ -1,4 +1,4 @@
-Proyecto Juegos 0.9
+Proyecto Juegos 0.91
 ================================
 
 Aplicación Java que simula el funcionamiento de una consola permitiendo cargar varios juegos
@@ -26,9 +26,9 @@ importanción en [Eclipe] y demás IDE's.
 
 
 ## Licencia
-Esta aplicación se ofrece bajo licencia [AGPL versión 3].
+Esta aplicación se ofrece bajo licencia [GPL versión 3].
 
-[AGPL versión 3]: http://www.gnu.org/licenses/agpl.html
+[GPL versión 3]: https://www.gnu.org/licenses/gpl-3.0.en.html
 [NetBeans]: https://netbeans.org/
 [Eclipe]: https://eclipse.org/
 [Java]: https://www.java.com/
