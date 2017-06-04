@@ -15,7 +15,7 @@ Ahorcado con personajes famosos y un ejemplo de Oráculo donde se nos adivinará
 de una serie de preguntas.
 
 Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
-proyecto construido y listo para ser ejecutado de manera Gráfica.
+proyecto construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
 - [Java] 7 o superior (para ejecutar la Aplicación)
