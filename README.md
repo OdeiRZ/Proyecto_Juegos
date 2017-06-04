@@ -1,18 +1,21 @@
 Proyecto Juegos 0.9
 ================================
 
-Aplicación Java que simula el funcionamiento de una Videoconsola, permitiendo cargar varios Juegos
-desarrollados haciendo uso de Interfaces Gráficas y elementos Multimedia para dotar al Programa de 
+Aplicación Java que simula el funcionamiento de una consola permitiendo cargar varios juegos
+desarrollados haciendo uso de interfaces gráficas y elementos multimedia para dotar al programa de 
 interactividad.
 
-Desde el Programa podremos elegir varios Juegos mientras se reproduce un hilo musical de fondo,
-añadiendo además efectos interactivos mientras hacemos uso de la Aplicación para una interacción 
-con el usuario más satisfactoria.
+Desde la aplicación podremos elegir varios juegos mientras se reproduce un hilo musical de fondo,
+añadiendo además efectos interactivos mientras hacemos uso del programa para conseguir una interacción 
+mayor y más satisfactoria con el usuario.
 
-Los Juegos implementados han sido desarrollados también en Java, entre los que podemos destacar
+Los juegos implementados han sido desarrollados también en Java, entre los que podemos destacar
 un prototipo del clásico de las 7 Diferencias con personajes de anime, una versión interactiva del
 Ahorcado con personajes famosos y un ejemplo de Oráculo donde se nos adivinará un número a partir
 de una serie de preguntas.
+
+Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
+proyecto construido y listo para ser ejecutado de manera Gráfica.
 
 ## Requisitos
 - [Java] 7 o superior (para ejecutar la Aplicación)
