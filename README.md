@@ -1,4 +1,4 @@
-Proyecto Juegos 0.91
+Proyecto Juegos 0.92
 ================================
 
 Aplicación Java que simula el funcionamiento de una consola permitiendo cargar varios juegos
