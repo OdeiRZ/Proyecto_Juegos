@@ -14,7 +14,7 @@ un prototipo del clásico de las 7 Diferencias con personajes de anime, una vers
 Ahorcado con personajes famosos y un ejemplo de Oráculo donde se nos adivinará un número a partir
 de una serie de preguntas.
 
-Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable '.jar' con el 
+Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable .jar con el 
 proyecto construido y listo para ser ejecutado de manera gráfica.
 
 ## Requisitos
