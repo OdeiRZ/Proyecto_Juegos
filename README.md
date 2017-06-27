@@ -10,8 +10,8 @@ añadiendo además efectos interactivos mientras hacemos uso del programa para c
 mayor y más satisfactoria con el usuario.
 
 Los juegos implementados han sido desarrollados también en Java, entre los que podemos destacar
-un prototipo del clásico de las 7 Diferencias con personajes de anime, una versión interactiva del
-Ahorcado con personajes famosos y un ejemplo de Oráculo donde se nos adivinará un número a partir
+un prototipo del clásico de las 7 diferencias con personajes de anime, una versión interactiva del
+ahorcado con personajes famosos y un ejemplo de oráculo donde se nos adivinará un número a partir
 de una serie de preguntas.
 
 Para facilitar la puesta en marcha de la aplicación se proporciona un ejecutable .jar con el 
@@ -23,7 +23,6 @@ proyecto construido y listo para ser ejecutado de manera gráfica.
 ## Entorno de desarrollo
 La Aplicación ha sido desarrollada utilizando el IDE [NetBeans] pero también es posible su 
 importanción en [Eclipe] y demás IDE's.
-
 
 ## Licencia
 Esta aplicación se ofrece bajo licencia [GPL versión 3].
